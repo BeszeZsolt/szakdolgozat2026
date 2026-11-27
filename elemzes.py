@@ -333,7 +333,7 @@ nagy = vandorlas[vandorlas["NÉPESSÉG21"] > 5000]
 print(nagy["VÁNDORLÁS_EZER21"].corr(nagy["VÁNDORLÁS_EZER25"]))   # 0,53
 
 # 4.7 Jövedelem: NAV SZJA-alap (TeIR), 2021 és 2024
-szja = pd.read_excel("TEIR/TEIR_EGY_LAKOSRA_SZJA_ALAPOT_KEPEZO_BELFOLDI_JOVEDELEM.xlsx")
+szja = pd.read_excel("TEIR/TEIR_EGY_LAKOSRA_SZJA_ALAPOT_KEPEZO_BELFOLDI_JOVEDELEM.xlsx", skipfooter=160)
 szja.columns = ["TELEPÜLÉS", "KSH_KÓD", "SZJA21", "SZJA24"]
 
 # A területváltozást jelölő „ *” levágása a nevek végéről

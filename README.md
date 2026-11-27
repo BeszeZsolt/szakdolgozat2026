@@ -12,4 +12,4 @@ Az elemzés kódja (`elemzes.py`) és a felhasznált adatok.
 - `TEIR/`: TeIR, egy lakosra jutó SZJA-alap, 2021 és 2024
 
 ### Futtatás
-Python 3.11 (pandas, numpy, statsmodels, matplotlib, openpyxl, xlrd). A kódot a repó gyökeréből kell futtatni.
+Python 3.11 (pandas, numpy, statsmodels, matplotlib, openpyxl, xlrd). A kódot a repository gyökeréből kell futtatni.

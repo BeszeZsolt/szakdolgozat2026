@@ -1,5 +1,5 @@
 # Szakdolgozat
-## Fidesz–KDNP 2022–2026
+## Társadalmi és gazdasági tényezők összefüggése az inkumbens párt támogatottságának változásával a 2022-es és 2026-os magyar választásokon
 
 Besze Zsolt,
 Budapesti Corvinus Egyetem, Gazdaságinformatikus BSc, 2026
